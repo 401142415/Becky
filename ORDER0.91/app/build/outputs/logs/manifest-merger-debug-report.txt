@@ -1,0 +1,247 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:2:1-156:12
+	package
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.1] H:\Android\Program\Becky\ORDER0.91\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml
+application
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:11:5-152:19
+MERGED from [com.android.support:support-v4:22.2.1] H:\Android\Program\Becky\ORDER0.91\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:13:9-38
+	android:theme
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:15:9-67
+activity#com.example.order.SplashActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:18:9-27:20
+	android:screenOrientation
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:20:13-49
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:19:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.order.Registered
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:30:13-62
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:29:13-39
+activity#com.example.order.RegisteredActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:34:13-62
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:33:13-47
+activity#com.example.order.SeatActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:37:13-41
+activity#com.example.order.BookingActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:42:13-59
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:41:13-44
+activity#com.example.order.RecipeActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:46:13-58
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:45:13-43
+activity#com.example.order.DelActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:50:13-55
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:49:13-40
+activity#com.example.order.AddActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:54:13-55
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:53:13-40
+activity#com.example.order.WelcomeActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:58:13-59
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:57:13-44
+activity#com.example.order.OrderActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:60:9-63:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:62:13-57
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:61:13-42
+activity#com.example.order.OrderedActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:64:9-67:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:66:13-59
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:65:13-44
+activity#com.example.order.EndActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:68:9-71:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:70:13-55
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:69:13-40
+activity#com.example.order.CashierActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:72:9-75:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:74:13-59
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:73:13-44
+activity#com.example.order.CookActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:76:9-79:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:78:13-56
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:77:13-41
+activity#com.example.order.MainActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:80:9-83:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:82:13-45
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:81:13-41
+activity#com.example.order.GuideActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:84:9-87:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:86:13-57
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:85:13-42
+activity#com.example.order.SetAdminActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:88:9-91:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:90:13-57
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:89:13-45
+activity#com.example.order.AdminActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:92:9-95:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:94:13-57
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:93:13-42
+activity#com.example.order.PersonnelActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:96:9-99:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:98:13-61
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:97:13-46
+activity#com.example.order.PersonnelManagementActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:100:9-103:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:102:13-72
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:101:13-56
+activity#com.example.order.AddPersonnelActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:104:9-107:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:106:13-65
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:105:13-49
+activity#com.example.order.TableManagementActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:108:9-111:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:110:13-68
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:109:13-52
+activity#com.example.order.AddTableActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:112:9-115:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:114:13-61
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:113:13-45
+activity#com.example.order.TableActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:116:9-119:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:118:13-57
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:117:13-42
+activity#com.example.order.AllTableActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:120:9-123:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:122:13-61
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:121:13-45
+activity#com.example.order.ChangeActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:124:9-127:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:126:13-58
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:125:13-43
+activity#com.example.order.Ordered2Activity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:128:9-131:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:130:13-60
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:129:13-45
+activity#com.example.order.AddSuggestionActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:132:9-135:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:134:13-66
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:133:13-50
+activity#com.example.order.SuggestionActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:136:9-139:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:138:13-62
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:137:13-47
+activity#com.example.order.AllPayActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:140:9-143:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:142:13-59
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:141:13-43
+activity#com.example.order.All_OrderActivity
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:144:9-147:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:146:13-62
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:145:13-46
+activity#com.example.order.MyRadiobutton
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:148:9-151:20
+	android:label
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:150:13-66
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:149:13-42
+uses-permission#android.permission.INTERNET
+ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:154:5-67
+	android:name
+		ADDED from H:\Android\Program\Becky\ORDER0.91\app\src\main\AndroidManifest.xml:154:22-64

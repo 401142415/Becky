@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:id="@+id/ly_top_bar"
+        android:background="#F8F8FF">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/txt_top_bar"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="#0000CD"
+            android:text="@string/content"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2px"
+            android:layout_alignParentBottom="true"
+            android:background="#C0C0C0"/>
+
+    </RelativeLayout>
+
+   <RadioGroup
+       android:layout_width="match_parent"
+       android:layout_height="56dp"
+       android:id="@+id/rg_tab_bar"
+       android:layout_alignParentBottom="true"
+       android:orientation ="horizontal"
+       android:background="#f8f8ff">
+
+       <RadioButton
+           android:id="@+id/rb_discover"
+           android:drawableTop="@drawable/tab_menu_discover"
+           android:text="@string/discovery"
+           style="@style/TapTheme"/>
+       <RadioButton
+           android:id="@+id/rb_news"
+           android:drawableTop="@drawable/tab_menu_news"
+           android:text="@string/news"
+           style="@style/TapTheme"/>
+       <RadioButton
+           android:id="@+id/rb_about_me"
+           android:drawableTop="@drawable/tab_menu_about_me"
+           android:text="@string/about_me"
+           style="@style/TapTheme"/>
+   </RadioGroup>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:id="@+id/div_tab_bar"
+        android:background="#C0C0C0"
+        android:layout_above="@+id/rg_tab_bar"/>
+
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/div_tab_bar"
+        android:layout_below="@id/ly_top_bar"
+        android:id="@+id/vpager"
+       />
+    <!--<FrameLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_above="@id/div_tab_bar"-->
+        <!--android:layout_below="@id/ly_top_bar"-->
+        <!--android:id="@+id/ly_content"-->
+        <!--&gt;-->
+    <!--</FrameLayout>-->
+</RelativeLayout>

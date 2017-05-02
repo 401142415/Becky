@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ORDER</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_registered">Registered</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_seat">SeatActivity</string>
+    <string name="title_activity_booking">BookingActivity</string>
+    <string name="title_activity_recipe">RecipeActivity</string>
+    <string name="title_activity_del">DelActivity</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_order">OrderActivity</string>
+    <string name="title_activity_ordered">OrderedActivity</string>
+    <string name="title_activity_end">EndActivity</string>
+    <string name="title_activity_cashier">CashierActivity</string>
+    <string name="title_activity_cook">CookActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_guide">GuideActivity</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="title_activity_personnel">PersonnelActivity</string>
+    <string name="title_activity_personnel_management">PersonnelManagementActivity</string>
+    <string name="title_activity_add_personnel">AddPersonnelActivity</string>
+    <string name="title_activity_table_management">TableManagementActivity</string>
+    <string name="title_activity_add_table">AddTableActivity</string>
+    <string name="title_activity_table">TableActivity</string>
+    <string name="title_activity_all_table">AllTableActivity</string>
+    <string name="title_activity_change">ChangeActivity</string>
+    <string name="title_activity_ordered2">Ordered2Activity</string>
+    <string name="title_activity_add_suggestion">AddSuggestionActivity</string>
+    <string name="title_activity_suggestion">SuggestionActivity</string>
+    <string name="title_activity_all_pay">AllPayActivity</string>
+    <string name="title_activity_all__order">All_OrderActivity</string>
+    <string name="title_activity_my_radiobutton">MyRadiobutton</string>
+
+</resources>

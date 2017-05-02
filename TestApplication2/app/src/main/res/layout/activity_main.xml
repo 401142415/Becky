@@ -10,8 +10,100 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.administrator.testapplication.MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:id="@+id/ly_top_bar"
+        android:background="#F8F8FF">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/txt_topbar"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="#0000CD"
+            android:text="@string/content"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:id="@+id/ly_tab_bar"
+        android:layout_alignParentBottom="true"
+        android:background="#F8F8FF"
+        android:orientation="horizontal">
+
+   <!--     <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/tab_menu_bg"
+            android:drawablePadding="3dp"
+            android:drawableTop="@drawable/tab_menu_discover"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/discovery"
+            android:textColor="@drawable/tab_menu_text"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/tab_menu_bg"
+            android:drawablePadding="3dp"
+            android:drawableTop="@drawable/tab_menu_news"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/news"
+            android:textColor="@drawable/tab_menu_text"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/tab_menu_bg"
+            android:drawablePadding="3dp"
+            android:drawableTop="@drawable/tab_menu_about_me"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/about_me"
+            android:textColor="@drawable/tab_menu_text"
+            android:textSize="16sp"/>-->
+        <TextView
+            android:drawableTop="@drawable/tab_menu_discover"
+            android:id="@+id/txt_discover"
+            android:text="@string/discovery"
+            style="@style/TapTheme"/>
+        <TextView
+            android:drawableTop="@drawable/tab_menu_news"
+            android:id="@+id/txt_news"
+            android:text="@string/news"
+            style="@style/TapTheme"/>
+        <TextView
+            android:drawableTop="@drawable/tab_menu_about_me"
+            android:id="@+id/txt_about_me"
+            android:text="@string/about_me"
+            style="@style/TapTheme"/>
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:id="@+id/div_tab_bar"
+        android:background="#f8f8ff"
+        android:layout_above="@+id/ly_tab_bar"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ly_top_bar"
+        android:layout_above="@id/ly_tab_bar"
+        android:id="@+id/ly_content"
+        ></FrameLayout>
 </RelativeLayout>

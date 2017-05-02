@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.order"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="21" />
+    <!-- 允许联网 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+
+        <!-- android:theme="@style/AppTheme" -->
+        <activity
+            android:name="com.example.order.SplashActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.order.Registered"
+            android:label="@string/title_activity_registered" >
+        </activity>
+        <activity
+            android:name="com.example.order.RegisteredActivity"
+            android:label="@string/title_activity_registered" >
+        </activity>
+        <activity
+            android:name="com.example.order.SeatActivity"
+            android:label="@string/title_activity_seat" >
+        </activity>
+        <activity
+            android:name="com.example.order.BookingActivity"
+            android:label="@string/title_activity_booking" >
+        </activity>
+        <activity
+            android:name="com.example.order.RecipeActivity"
+            android:label="@string/title_activity_recipe" >
+        </activity>
+        <activity
+            android:name="com.example.order.DelActivity"
+            android:label="@string/title_activity_del" >
+        </activity>
+        <activity
+            android:name="com.example.order.AddActivity"
+            android:label="@string/title_activity_add" >
+        </activity>
+        <activity
+            android:name="com.example.order.WelcomeActivity"
+            android:label="@string/title_activity_welcome" >
+        </activity>
+        <activity
+            android:name="com.example.order.OrderActivity"
+            android:label="@string/title_activity_order" >
+        </activity>
+        <activity
+            android:name="com.example.order.OrderedActivity"
+            android:label="@string/title_activity_ordered" >
+        </activity>
+        <activity
+            android:name="com.example.order.EndActivity"
+            android:label="@string/title_activity_end" >
+        </activity>
+        <activity
+            android:name="com.example.order.CashierActivity"
+            android:label="@string/title_activity_cashier" >
+        </activity>
+        <activity
+            android:name="com.example.order.CookActivity"
+            android:label="@string/title_activity_cook" >
+        </activity>
+        <activity
+            android:name="com.example.order.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.example.order.GuideActivity"
+            android:label="@string/title_activity_guide" >
+        </activity>
+        <activity
+            android:name="com.example.order.SetAdminActivity"
+            android:label="@string/title_activity_admin" >
+        </activity>
+        <activity
+            android:name="com.example.order.AdminActivity"
+            android:label="@string/title_activity_admin" >
+        </activity>
+        <activity
+            android:name="com.example.order.PersonnelActivity"
+            android:label="@string/title_activity_personnel" >
+        </activity>
+        <activity
+            android:name="com.example.order.PersonnelManagementActivity"
+            android:label="@string/title_activity_personnel_management" >
+        </activity>
+        <activity
+            android:name="com.example.order.AddPersonnelActivity"
+            android:label="@string/title_activity_add_personnel" >
+        </activity>
+        <activity
+            android:name="com.example.order.TableManagementActivity"
+            android:label="@string/title_activity_table_management" >
+        </activity>
+        <activity
+            android:name="com.example.order.AddTableActivity"
+            android:label="@string/title_activity_add_table" >
+        </activity>
+        <activity
+            android:name="com.example.order.TableActivity"
+            android:label="@string/title_activity_table" >
+        </activity>
+        <activity
+            android:name="com.example.order.AllTableActivity"
+            android:label="@string/title_activity_all_table" >
+        </activity>
+        <activity
+            android:name="com.example.order.ChangeActivity"
+            android:label="@string/title_activity_change" >
+        </activity>
+        <activity
+            android:name="com.example.order.Ordered2Activity"
+            android:label="@string/title_activity_ordered2" >
+        </activity>
+        <activity
+            android:name="com.example.order.AddSuggestionActivity"
+            android:label="@string/title_activity_add_suggestion" >
+        </activity>
+        <activity
+            android:name="com.example.order.SuggestionActivity"
+            android:label="@string/title_activity_suggestion" >
+        </activity>
+        <activity
+            android:name="com.example.order.AllPayActivity"
+            android:label="@string/title_activity_all_pay" >
+        </activity>
+        <activity
+            android:name="com.example.order.All_OrderActivity"
+            android:label="@string/title_activity_all__order" >
+        </activity>
+        <activity
+            android:name="com.example.order.MyRadiobutton"
+            android:label="@string/title_activity_my_radiobutton" >
+        </activity>
+    </application>
+
+</manifest>

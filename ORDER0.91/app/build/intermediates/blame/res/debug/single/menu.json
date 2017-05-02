@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\seat.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\seat.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\table.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\table.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\personnel.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\personnel.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\guide.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\guide.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_suggestion.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\add_suggestion.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\welcome.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\welcome.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\my_radiobutton.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\my_radiobutton.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ordered.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\ordered.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\order.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\order.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\recipe.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\recipe.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\all_pay.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\all_pay.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\all__order.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\all__order.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\admin.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\admin.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\personnel_management.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\personnel_management.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\table_management.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\table_management.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cashier.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\cashier.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ordered2.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\ordered2.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cook.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\cook.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\registered.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\registered.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\all_table.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\all_table.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_personnel.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\add_personnel.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_table.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\add_table.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\add.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\end.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\end.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\suggestion.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\suggestion.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\change.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\change.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\booking.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\booking.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\menu\\del.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\menu\\del.xml"
+    }
+]

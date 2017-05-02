@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_end.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_end.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_page1.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\viewpager_page1.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_table.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_add_table.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cook.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_cook.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personnel.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_personnel.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cashier.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_cashier.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_page2.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\viewpager_page2.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recipelistview.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\recipelistview.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_change.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_booking.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_booking.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registered.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_registered.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\seatlistview.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\seatlistview.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\suggestionlistview.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\suggestionlistview.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_table.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_all_table.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_seat.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_seat.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_suggestion.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_suggestion.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setadmin.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_setadmin.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_del.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_del.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ordered.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_ordered.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personnel_management.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_personnel_management.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recipe.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_recipe.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_table_management.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_table_management.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_table.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_table.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cooklistview.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\cooklistview.xml"
+    },
+    {
+        "merged": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_suggestion.xml",
+        "source": "H:\\Android\\Program\\Becky\\ORDER0.91\\app\\src\\main\\res\\layout\\activity_add_suggestion.xml"
+    }
+]
